@@ -1,2 +1,1 @@
-# coderimut-fccapi
-Freecodecamp API and Mircroservices Challenges!
+# Backend Challenges boilerplate - package.json
