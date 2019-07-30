@@ -1,6 +1,10 @@
 {
   "author": "Dhia Aziz",
+  "description": "Upgrade my skill through this awesome API and Microservices coding challenge by freecodecamp.org",
 	"name": "fcc-learn-npm-package-json",
+  "keywords": [ "freecodecamp", "api", "nodejs" ],
+  "license": "MIT",
+  "version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
